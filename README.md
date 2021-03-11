@@ -8,4 +8,5 @@ Contents
 - **Hardware_info.md** Is a descriprion of the hardware in use
 - **Documentation** Folder contains the datasheets for the hardware in use
 
-![Tux, the Linux mascot](/assets/images/tux.png)
+![ND logo](/misc/images/ND_mark_blue.png) ![ND DBF Logo](/misc/images/DBF_Tri_Blue.png)
+

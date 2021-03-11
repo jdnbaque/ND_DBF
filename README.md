@@ -1,4 +1,4 @@
-# ND_DBF
+# Notre Dame - Design, Build, Fly
 Repo for DBF related projects
 
 <small>*Questions google can't answer? Ask Jhordan*</small>
@@ -12,6 +12,8 @@ Repo for DBF related projects
 ## Misc
 Miscelaneous files
 - **images** Pretty self explanatory what's in here
+
+## 
 
 ![ND logo](/misc/images/ND_mark_blue_M.png) ![ND DBF Logo](/misc/images/DBF_Tri_Blue.png)
 

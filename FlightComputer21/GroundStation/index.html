@@ -121,8 +121,10 @@
 
   </script> -->
 
+ <h1>BLE Receiver</h1>
+<h2 id ="demo">Waiting for temp</h2>
 
-  <button id="read">Connect with BLE device</button>
+<button id="read">Connect with BLE device</button>
 <button id="start" disabled>Start</button>
 <button id="stop" disabled>Stop</button>
 
@@ -148,6 +150,8 @@
   function isWebBluetoothEnabled() {
     if (!navigator.bluetooth) {
       console.log('Web Bluetooth API is not available in this browser!')
+      document.getElementById("demo").innerHTML = 'Web Bluetooth API is not available in this browser!' ;
+
       return false
     }
 
@@ -167,6 +171,8 @@
       bluetoothDeviceDetected = device
     }).catch(error => {
       console.log('Argh! ' + error)
+      document.getElementById("demo").innerHTML = error ;
+
     })
   }
 
@@ -179,6 +185,8 @@
     })
     .catch(error => {
       console.log('Waiting to start reading: ' + error)
+      document.getElementById("demo").innerHTML = 'Waiting ' + error ;
+
     })
   }
 
@@ -209,6 +217,7 @@
     let value = event.target.value.getUint8(0)
     var now = new Date()
     console.log('> ' + now.getHours() + ':' + now.getMinutes() + ':' + now.getSeconds() + ' Temperature: ' + value + '[C]')
+    document.getElementById("demo").innerHTML = value;
   }
 
   function start() {

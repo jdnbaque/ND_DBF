@@ -1,5 +1,5 @@
 # Notre Dame - Design, Build, Fly
-Repo for DBF related projects  <small>*Not maintained by ND </small>
+Repo for DBF related projects  <sub>*Not maintained by ND </sub>
 
 <small>*Questions/Suggestions? Ask Jhordan*</small>
 

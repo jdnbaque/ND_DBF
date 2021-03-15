@@ -1,3 +1,7 @@
+# Python script for ground station to receive/display BLE data
+# sample code found online below
+# Documentation for socket library https://docs.python.org/3/library/socket.html
+
 import socket
 
 adapter_addr = 'e4:a4:71:63:e1:69'

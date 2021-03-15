@@ -208,10 +208,19 @@ void loop() {
   if(uv_index_characteristic.indicate(&uvindexvalue, sizeof(uvindexvalue))){
     Serial.print("Updated Temp: " );
     Serial.println(uvindexvalue);
+      Serial.print("\t\tGyro X: ");
+      Serial.print(gyro.gyro.x);
+      Serial.print(" \tY: ");
+      Serial.print(gyro.gyro.y);
+      Serial.print(" \tZ: ");
+      Serial.print(gyro.gyro.z);
+      Serial.println(" radians/s ");
+      Serial.println();
   }else {
     Serial.println("error, no receivers or no message sent");
   }
   delay(1000);
 }
+
 
 

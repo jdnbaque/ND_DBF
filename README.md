@@ -15,5 +15,5 @@ Miscelaneous files
 
 ## 
 
-![ND logo](/misc/images/ND_mark_blue_M.png) ![ND DBF Logo](/misc/images/DBF_Tri_Blue.png)
+![ND logo](/Misc/images/ND_mark_blueM.png) ![ND DBF Logo](/Misc/images/DBF_TriBlue.png)
 

@@ -1,3 +1,8 @@
+// Scrip goes into index.html
+// Test for using google chrome's low power bluetooth api to receive data from FCC
+// Documentation can be found at https://web.dev/bluetooth/
+
+
 var deviceName = 'Bluefruit52'
 var bleService = 'environmental_sensing'
 var bleCharacteristic = 'temperature'

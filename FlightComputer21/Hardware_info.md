@@ -19,5 +19,5 @@
 
 ## External Hardware
 - **Micro SD Adapter:** E260 [PN: X002J48TGD] ASM1117 DN811 LVC125A
-- **GPS:** Adafruit Ultimate GPS Breakout v3
+- **GPS:** Adafruit Ultimate GPS Breakout v3.
 

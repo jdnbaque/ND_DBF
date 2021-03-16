@@ -1,6 +1,7 @@
 # Notre Dame - Design, Build, Fly
 Repo for DBF related projects  <sub>*Not maintained by ND </sub>
-
+<sup>Under construction</sup>
+Check out the [Wiki](https://github.com/jdnbaque/ND_DBF/wiki) to get started.
 <small>*Questions/Suggestions? Ask Jhordan*</small>
 
 ## ***Folders and Contents***

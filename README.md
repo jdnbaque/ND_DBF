@@ -5,7 +5,7 @@ Check out the [Wiki](https://github.com/jdnbaque/ND_DBF/wiki) to get started.
 <sup>*Questions/Suggestions? Ask Jhordan*</sup>
 
 ## ***Folders and Contents***
-### Test
+### test
 Feel free to test your github skills here or play around with test code.
 
 ### FlightComputer21

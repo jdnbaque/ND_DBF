@@ -16,8 +16,7 @@ Feel free to test your github skills here or play around with test code.
 
 ### Misc
 Miscelaneous files
-- **images** Pretty self explanatory what's in here
-
+- **images** 
 ## 
 
-<img src="https://github.com/jdnbaque/ND_DBF/blob/main/Misc/images/DBF_TriBlue.png" alt="DBF" width="200"/> <img src="https://github.com/jdnbaque/ND_DBF/blob/main/Misc/images/ND_mark_blueM.png" alt="ND" width="300"/>
+<img src="https://github.com/jdnbaque/ND_DBF/blob/main/Misc/images/DBF_TriBlue.png" alt="DBF" width="200"/> <img src="https://github.com/jdnbaque/ND_DBF/blob/main/Misc/images/ND_mark_blueM.png" alt="ND" width="350"/>

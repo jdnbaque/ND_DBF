@@ -5,7 +5,7 @@ Check out the [Wiki](https://github.com/jdnbaque/ND_DBF/wiki) to get started.
 <sup>*Questions/Suggestions? Ask Jhordan*</sup>
 
 ## ***Folders and Contents***
-### Test
+### test
 Feel free to test your github skills here or play around with test code.
 
 ### FlightComputer21
@@ -16,9 +16,9 @@ Feel free to test your github skills here or play around with test code.
 
 ### Misc
 Miscelaneous files
-- **images** Pretty self explanatory what's in here
+- **images** 
+##   
 
-## 
+##  
 
-![ND logo](/Misc/images/ND_mark_blueM.png) ![ND DBF Logo](/Misc/images/DBF_TriBlue.png)
-
+<img src="https://github.com/jdnbaque/ND_DBF/blob/main/Misc/images/DBF_TriBlue.png" alt="DBF" width="175"/> <img src="https://github.com/jdnbaque/ND_DBF/blob/main/Misc/images/ND_mark_blueM.png" alt="ND" width="350"/>
